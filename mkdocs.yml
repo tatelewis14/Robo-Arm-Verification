@@ -14,4 +14,7 @@ nav:
   - About Me: aboutme/index.md
   - Portfolio Overview: portfolio-overview.md
   - Materials: materials.md
+    - 3D Printed Parts: 3d-materials.md
+    - CNC Machined Parts: cnc-machined-parts.md
+    - Purchased Parts: purchased-parts.md
   - Assembly: assembly.md
