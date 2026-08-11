@@ -1,4 +1,4 @@
-# MEGR 2157 – Design Portfolio
+# Tate's First Portfolio
 
 ![MEGR 2156-7 Title](portfolio-overview.md)
 
